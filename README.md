@@ -2,7 +2,7 @@
 
 Greetings! I'm Danylo, a dedicated Full-Stack engineer passionate about crafting captivating web experiences.
 
-I bring over 6 years of experience in the React and Vue.js ecosystems, with solid expertise in Node.js and Express.js specializing in turning visions into digital realities. My journey spans from startups to renowned tech giants, always with a core focus on user-centric design.
+I bring over 6 years of experience in the React, Node.js and Express.js, with solid expertise in AWS, specializing in turning visions into digital realities. My journey spans from startups to renowned tech giants, always with a core focus on user-centric design.
 
 📩 Interested in collaboration or simply geeking out over tech? Drop me a message anytime. Let's elevate your concepts together!
 
